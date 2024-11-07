@@ -8,7 +8,7 @@ const Navbar = () => {
         data-aos="fade-down"
         data-aos-duration="1000"
       >
-        <div className="logo nav_links">Portfolio</div>
+        <div className="logo nav_links">My Portfolio</div>
         <div className="right d-flex justify-content-center align-items-center">
           <a href="#home" className="nav_links">
             Home

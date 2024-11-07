@@ -5,7 +5,7 @@ import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
 import { CgMail } from "react-icons/cg";
-import { FaPhoneSquare } from "react-icons/fa";
+// import { FaPhoneSquare } from "react-icons/fa";
 const Contact = () => {
   return (
     <>
